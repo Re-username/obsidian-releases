@@ -73659,5 +73659,12 @@
     "author": "coherence-wizard",
     "description": "Browse photo folders or digiKam catalogs, organize metadata, and edit and export images. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "coherence-wizard/photo-workspace"
+  },
+  {
+    "id": "timetool",
+    "name": "TimeTool — время и даты",
+    "author": "Re-username",
+    "description": "Калькулятор времени и дат: разница, сдвиг, отсчёт до даты, сумма интервалов; живые код-блоки timetool и inline-пересчёт. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "Re-username/obsidian-timetool"
   }
 ]
